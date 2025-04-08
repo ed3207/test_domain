@@ -2,6 +2,7 @@
 title: "OJS Variables"
 image: "globe.png"
 subtitle: "Smoothly transition interactive OJS graphics."
+embed-resources: true
 format:
   closeread-html:
     code-tools: true
